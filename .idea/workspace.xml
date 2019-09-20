@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460045a8-1e2d-42f6-91b1-f4abbbff3d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jenkins/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins/Jenkinsfile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -39,8 +40,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jenkins/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="486">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jenkins/scripts/deliver.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -98,6 +108,12 @@
               <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="simple-java-maven-app" type="462c0819:PsiDirectoryNode" />
               <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple-java-maven-app" type="462c0819:PsiDirectoryNode" />
+              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
@@ -185,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568930408944</updated>
       <workItem from="1568930410441" duration="1727000" />
-      <workItem from="1568990289133" duration="1391000" />
+      <workItem from="1568990289133" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="Primer configuración de Pipeline">
       <created>1568931367737</created>
@@ -198,7 +214,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3118000" />
+    <option name="totallyTimeSpent" value="3421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1987" y="25" width="1853" height="1055" extended-state="6" />
@@ -261,10 +277,17 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/scripts/deliver.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jenkins/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="486">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
