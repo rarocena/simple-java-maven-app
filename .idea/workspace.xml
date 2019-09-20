@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/jenkins/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -198,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568930408944</updated>
       <workItem from="1568930410441" duration="1727000" />
-      <workItem from="1568990289133" duration="3247000" />
+      <workItem from="1568990289133" duration="3307000" />
     </task>
     <task id="LOCAL-00001" summary="Primer configuración de Pipeline">
       <created>1568931367737</created>
@@ -211,7 +211,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4974000" />
+    <option name="totallyTimeSpent" value="5034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
@@ -284,7 +284,7 @@
     <entry file="file://$PROJECT_DIR$/jenkins/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
