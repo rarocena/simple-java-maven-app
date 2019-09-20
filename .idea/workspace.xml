@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460045a8-1e2d-42f6-91b1-f4abbbff3d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jenkins/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins/Jenkinsfile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -39,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jenkins/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="432">
+              <caret line="24" selection-start-line="14" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -155,6 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -184,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568930408944</updated>
       <workItem from="1568930410441" duration="1727000" />
-      <workItem from="1568990289133" duration="665000" />
+      <workItem from="1568990289133" duration="1171000" />
     </task>
     <task id="LOCAL-00001" summary="Primer configuración de Pipeline">
       <created>1568931367737</created>
@@ -197,13 +199,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2392000" />
+    <option name="totallyTimeSpent" value="2898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1987" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26175982" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26175982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -218,11 +220,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.33909288" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.33909288" />
       <window_info anchor="bottom" id="SonarQube" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -262,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jenkins/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="14" selection-end-line="24" />
         </state>
       </provider>
     </entry>
