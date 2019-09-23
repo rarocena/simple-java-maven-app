@@ -6,6 +6,12 @@ pipeline {
         }
     }
     stages {
+        stage('SonarQuebe Analysis') {
+            def mvnHome = tool name: 'maven-3', type: 'maven'
+            withSonarQubeEnv('Sonar7') {
+                sh "${mvnHome}/bin/mvn sonar:sonar"
+            }
+        }
         stage('Build') {
             steps {
                 sh 'mvn -B -DskipTests clean package'

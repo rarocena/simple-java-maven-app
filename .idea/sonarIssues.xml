@@ -13,6 +13,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../prueba-git-ignore-online/services-template/src/main/java/uy/com/bbva/services/template/dao/TrainingDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prueba-git-ignore-online/services-template/src/main/java/uy/com/bbva/services/template/service/ServicioA1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
