@@ -8,8 +8,10 @@ pipeline {
     stages {
         stage('SonarQube Analysis') {
             def mvnHome = '/usr/share/maven'
-            withSonarQubeEnv('Sonar7') {
-                sh "${mvnHome}/bin/mvn sonar:sonar"
+            steps {
+                withSonarQubeEnv('Sonar7') {
+                    sh "${mvnHome}/bin/mvn sonar:sonar"
+                }
             }
         }
         stage('Build') {
